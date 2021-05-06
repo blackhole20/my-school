@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: darkgrey;
+}
+marquee{
+    background-color: orangered;
+    position: sticky;
+    top: 10;
+    z-index: 99999;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
